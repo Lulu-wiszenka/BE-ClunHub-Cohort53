@@ -1,0 +1,13 @@
+1. Implement POST /register API
+
+2. validate email format uniqueness
+
+3. Save the user in the database after validation
+
+4. Hash password before storing
+
+----------------------------------------------
+
+1. зарегистрироваться в системе через email, чтобы создать учетную запись и получить доступ к своим задачам.
+
+
